@@ -3,7 +3,7 @@ import math
 import matplotlib.pyplot as plt
 import numpy
 
-totalPoints = int(10)
+totalPoints = int(20)
 pointsList = [0]
 xCoordinates_equal = []
 yCoordinates_equal = []
